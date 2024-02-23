@@ -1,0 +1,8 @@
+@misc{chen2022weaklysupervised,
+      title={Weakly-Supervised Multi-Granularity Map Learning for Vision-and-Language Navigation}, 
+      author={Peihao Chen and Dongyu Ji and Kunyang Lin and Runhao Zeng and Thomas H. Li and Mingkui Tan and Chuang Gan},
+      year={2022},
+      eprint={2210.07506},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

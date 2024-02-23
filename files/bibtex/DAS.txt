@@ -1,0 +1,26 @@
+@inproceedings{DBLP:conf/eccv/LiuHZYTW22,
+  author    = {Lizhao Liu and
+               Shangxin Huang and
+               Zhuangwei Zhuang and
+               Ran Yang and
+               Mingkui Tan and
+               Yaowei Wang},
+  editor    = {Shai Avidan and
+               Gabriel J. Brostow and
+               Moustapha Ciss{\'{e}} and
+               Giovanni Maria Farinella and
+               Tal Hassner},
+  title     = {{DAS:} Densely-Anchored Sampling for Deep Metric Learning},
+  booktitle = {Computer Vision - {ECCV} 2022 - 17th European Conference, Tel Aviv,
+               Israel, October 23-27, 2022, Proceedings, Part {XXVI}},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {13686},
+  pages     = {399--417},
+  publisher = {Springer},
+  year      = {2022},
+  url       = {https://doi.org/10.1007/978-3-031-19809-0\_23},
+  doi       = {10.1007/978-3-031-19809-0\_23},
+  timestamp = {Thu, 03 Nov 2022 14:17:21 +0100},
+  biburl    = {https://dblp.org/rec/conf/eccv/LiuHZYTW22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

@@ -1,0 +1,30 @@
+@inproceedings{DBLP:conf/prcv/QiuZLZXT22,
+  author    = {Zhen Qiu and
+               Yifan Zhang and
+               Fei Li and
+               Xiulan Zhang and
+               Yanwu Xu and
+               Mingkui Tan},
+  editor    = {Shiqi Yu and
+               Zhaoxiang Zhang and
+               Pong C. Yuen and
+               Junwei Han and
+               Tieniu Tan and
+               Yike Guo and
+               Jianhuang Lai and
+               Jianguo Zhang},
+  title     = {Multi-scale Multi-target Domain Adaptation for Angle Closure Classification},
+  booktitle = {Pattern Recognition and Computer Vision - 5th Chinese Conference,
+               {PRCV} 2022, Shenzhen, China, November 4-7, 2022, Proceedings, Part
+               {II}},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {13535},
+  pages     = {77--88},
+  publisher = {Springer},
+  year      = {2022},
+  url       = {https://doi.org/10.1007/978-3-031-18910-4\_7},
+  doi       = {10.1007/978-3-031-18910-4\_7},
+  timestamp = {Thu, 05 Jan 2023 22:22:55 +0100},
+  biburl    = {https://dblp.org/rec/conf/prcv/QiuZLZXT22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

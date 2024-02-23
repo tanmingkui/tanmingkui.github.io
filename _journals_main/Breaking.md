@@ -1,6 +1,6 @@
 ---
 title: "Breaking Winner-Takes-All: Iterative-Winners-Out Networks for Weakly Supervised Temporal Action Localization"
-collection: journals_main
+collection: journals
 permalink: /publication/Breaking
 date: 2019-12-01
 year: "2019"

@@ -1,0 +1,31 @@
+@inproceedings{DBLP:conf/miccai/YangFDLZTX21,
+  author    = {Yifan Yang and
+               Huihui Fang and
+               Qing Du and
+               Fei Li and
+               Xiulan Zhang and
+               Mingkui Tan and
+               Yanwu Xu},
+  editor    = {Marleen de Bruijne and
+               Philippe C. Cattin and
+               St{\'{e}}phane Cotin and
+               Nicolas Padoy and
+               Stefanie Speidel and
+               Yefeng Zheng and
+               Caroline Essert},
+  title     = {Distinguishing Differences Matters: Focal Contrastive Network for
+               Peripheral Anterior Synechiae Recognition},
+  booktitle = {Medical Image Computing and Computer Assisted Intervention - {MICCAI}
+               2021 - 24th International Conference, Strasbourg, France, September
+               27 - October 1, 2021, Proceedings, Part {VIII}},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {12908},
+  pages     = {24--33},
+  publisher = {Springer},
+  year      = {2021},
+  url       = {https://doi.org/10.1007/978-3-030-87237-3\_3},
+  doi       = {10.1007/978-3-030-87237-3\_3},
+  timestamp = {Tue, 05 Jul 2022 08:29:23 +0200},
+  biburl    = {https://dblp.org/rec/conf/miccai/YangFDLZTX21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

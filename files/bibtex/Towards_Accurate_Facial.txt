@@ -1,0 +1,23 @@
+@inproceedings{DBLP:conf/aaai/MoLZZYYT22,
+  author    = {Langyuan Mo and
+               Haokun Li and
+               Chaoyang Zou and
+               Yubing Zhang and
+               Ming Yang and
+               Yihong Yang and
+               Mingkui Tan},
+  title     = {Towards Accurate Facial Motion Retargeting with Identity-Consistent
+               and Expression-Exclusive Constraints},
+  booktitle = {Thirty-Sixth {AAAI} Conference on Artificial Intelligence, {AAAI}
+               2022, Thirty-Fourth Conference on Innovative Applications of Artificial
+               Intelligence, {IAAI} 2022, The Twelveth Symposium on Educational Advances
+               in Artificial Intelligence, {EAAI} 2022 Virtual Event, February 22
+               - March 1, 2022},
+  pages     = {1981--1989},
+  publisher = {{AAAI} Press},
+  year      = {2022},
+  url       = {https://ojs.aaai.org/index.php/AAAI/article/view/20093},
+  timestamp = {Mon, 11 Jul 2022 16:09:32 +0200},
+  biburl    = {https://dblp.org/rec/conf/aaai/MoLZZYYT22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

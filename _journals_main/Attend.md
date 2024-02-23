@@ -1,6 +1,6 @@
 ---
 title: "Attend and Imagine: Multi-Label Image Classification With Visual Attention and Recurrent Neural Networks"
-collection: journals_main
+collection: journals
 permalink: /publication/Attend
 date: 2019-08-01
 year: "2019"

@@ -1,0 +1,8 @@
+@misc{niu2023stable,
+      title={Towards Stable Test-Time Adaptation in Dynamic Wild World}, 
+      author={Shuaicheng Niu and Jiaxiang Wu and Yifan Zhang and Zhiquan Wen and Yaofo Chen and Peilin Zhao and Mingkui Tan},
+      year={2023},
+      eprint={2302.12400},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}

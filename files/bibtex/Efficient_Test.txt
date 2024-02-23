@@ -1,0 +1,27 @@
+@inproceedings{DBLP:conf/icml/NiuW0CZZT22,
+  author    = {Shuaicheng Niu and
+               Jiaxiang Wu and
+               Yifan Zhang and
+               Yaofo Chen and
+               Shijian Zheng and
+               Peilin Zhao and
+               Mingkui Tan},
+  editor    = {Kamalika Chaudhuri and
+               Stefanie Jegelka and
+               Le Song and
+               Csaba Szepesv{\'{a}}ri and
+               Gang Niu and
+               Sivan Sabato},
+  title     = {Efficient Test-Time Model Adaptation without Forgetting},
+  booktitle = {International Conference on Machine Learning, {ICML} 2022, 17-23 July
+               2022, Baltimore, Maryland, {USA}},
+  series    = {Proceedings of Machine Learning Research},
+  volume    = {162},
+  pages     = {16888--16905},
+  publisher = {{PMLR}},
+  year      = {2022},
+  url       = {https://proceedings.mlr.press/v162/niu22a.html},
+  timestamp = {Fri, 11 Nov 2022 14:31:52 +0100},
+  biburl    = {https://dblp.org/rec/conf/icml/NiuW0CZZT22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

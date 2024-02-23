@@ -1,0 +1,10 @@
+@article{tan2021bidirectional,
+  title={Bidirectional posture-appearance interaction network for driver behavior recognition},
+  author={Tan, Mingkui and Ni, Gengqin and Liu, Xu and Zhang, Shiliang and Wu, Xiangmiao and Wang, Yaowei and Zeng, Runhao},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  volume={23},
+  number={8},
+  pages={13242--13254},
+  year={2021},
+  publisher={IEEE}
+}

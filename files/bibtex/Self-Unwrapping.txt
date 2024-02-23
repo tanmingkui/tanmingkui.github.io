@@ -1,0 +1,9 @@
+@article{zeng2022self,
+  title={Self-Unwrapping Phase-Shifting for Fast and Accurate 3-D Shape Measurement},
+  author={Zeng, Jinghui and Ma, Wenxin and Jia, Wei and Li, Yucheng and Li, Haowen and Liu, Xuewen and Tan, Mingkui},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={71},
+  pages={1--12},
+  year={2022},
+  publisher={IEEE}
+}

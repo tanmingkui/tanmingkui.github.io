@@ -1,0 +1,9 @@
+@article{he2022intra,
+  title={Intra-and inter-slice contrastive learning for point supervised OCT fluid segmentation},
+  author={He, Xingxin and Fang, Leyuan and Tan, Mingkui and Chen, Xiangdong},
+  journal={Ieee Transactions on Image Processing},
+  volume={31},
+  pages={1870--1881},
+  year={2022},
+  publisher={IEEE}
+}

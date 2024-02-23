@@ -1,0 +1,28 @@
+@inproceedings{DBLP:conf/eccv/LinZQNGLT22,
+  author    = {Hongbin Lin and
+               Yifan Zhang and
+               Zhen Qiu and
+               Shuaicheng Niu and
+               Chuang Gan and
+               Yanxia Liu and
+               Mingkui Tan},
+  editor    = {Shai Avidan and
+               Gabriel J. Brostow and
+               Moustapha Ciss{\'{e}} and
+               Giovanni Maria Farinella and
+               Tal Hassner},
+  title     = {Prototype-Guided Continual Adaptation for Class-Incremental Unsupervised
+               Domain Adaptation},
+  booktitle = {Computer Vision - {ECCV} 2022 - 17th European Conference, Tel Aviv,
+               Israel, October 23-27, 2022, Proceedings, Part {XXXIII}},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {13693},
+  pages     = {351--368},
+  publisher = {Springer},
+  year      = {2022},
+  url       = {https://doi.org/10.1007/978-3-031-19827-4\_21},
+  doi       = {10.1007/978-3-031-19827-4\_21},
+  timestamp = {Mon, 21 Nov 2022 16:58:44 +0100},
+  biburl    = {https://dblp.org/rec/conf/eccv/LinZQNGLT22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

@@ -1,0 +1,7 @@
+@article{lin2021macular,
+  title={Macular and submacular choroidal microvasculature in patients with primary open-angle glaucoma and high myopia},
+  author={Lin, Fengbin and Qiu, Zhen and Li, Fei and Chen, Yu and Peng, Yuying and Chen, Meiling and Song, Yunhe and Xiong, Jian and Cheng, Weijing and Liu, Yuhong and others},
+  journal={British Journal of Ophthalmology},
+  year={2021},
+  publisher={BMJ Publishing Group Ltd}
+}

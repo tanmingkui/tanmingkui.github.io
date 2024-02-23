@@ -1,0 +1,20 @@
+@inproceedings{DBLP:conf/icdcs/LiLJLWT22,
+  author    = {Haokun Li and
+               Jing Liu and
+               Liancheng Jia and
+               Yun Liang and
+               Yaowei Wang and
+               Mingkui Tan},
+  title     = {Downscaling and Overflow-aware Model Compression for Efficient Vision
+               Processors},
+  booktitle = {42nd {IEEE} International Conference on Distributed Computing Systems,
+               {ICDCS} Workshops, Bologna, Italy, July 10, 2022},
+  pages     = {145--150},
+  publisher = {{IEEE}},
+  year      = {2022},
+  url       = {https://doi.org/10.1109/ICDCSW56584.2022.00036},
+  doi       = {10.1109/ICDCSW56584.2022.00036},
+  timestamp = {Fri, 09 Dec 2022 09:27:53 +0100},
+  biburl    = {https://dblp.org/rec/conf/icdcs/LiLJLWT22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

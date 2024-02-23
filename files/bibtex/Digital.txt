@@ -1,0 +1,10 @@
+@article{li2022digital,
+  title={Digital gonioscopy based on three-dimensional anterior-segment OCT: an international multicenter study},
+  author={Li, Fei and Yang, Yifan and Sun, Xu and Qiu, Zhen and Zhang, Shihao and Tun, Tin Aung and Mani, Baskaran and Nongpiur, Monisha Esther and Chansangpetch, Sunee and Ratanawongphaibul, Kitiya and others},
+  journal={Ophthalmology},
+  volume={129},
+  number={1},
+  pages={45--53},
+  year={2022},
+  publisher={Elsevier}
+}

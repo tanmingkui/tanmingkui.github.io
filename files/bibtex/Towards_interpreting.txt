@@ -1,0 +1,10 @@
+@article{cao2022towards,
+  title={Towards interpreting deep neural networks via layer behavior understanding},
+  author={Cao, Jiezhang and Li, Jincheng and Hu, Xiping and Wu, Xiangmiao and Tan, Mingkui},
+  journal={Machine Learning},
+  volume={111},
+  number={3},
+  pages={1159--1179},
+  year={2022},
+  publisher={Springer}
+}

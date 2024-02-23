@@ -1,0 +1,18 @@
+@inproceedings{DBLP:conf/cvpr/ChenLZTS21,
+  author    = {Peng Chen and
+               Jing Liu and
+               Bohan Zhuang and
+               Mingkui Tan and
+               Chunhua Shen},
+  title     = {{AQD:} Towards Accurate Quantized Object Detection},
+  booktitle = {{IEEE} Conference on Computer Vision and Pattern Recognition, {CVPR}
+               2021, virtual, June 19-25, 2021},
+  pages     = {104--113},
+  publisher = {Computer Vision Foundation / {IEEE}},
+  year      = {2021},
+  url       = {https://openaccess.thecvf.com/content/CVPR2021/html/Chen\_AQD\_Towards\_Accurate\_Quantized\_Object\_Detection\_CVPR\_2021\_paper.html},
+  doi       = {10.1109/CVPR46437.2021.00017},
+  timestamp = {Mon, 18 Jul 2022 16:47:40 +0200},
+  biburl    = {https://dblp.org/rec/conf/cvpr/ChenLZTS21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

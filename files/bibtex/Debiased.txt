@@ -1,0 +1,22 @@
+@inproceedings{DBLP:conf/nips/WenXTWW21,
+  author    = {Zhiquan Wen and
+               Guanghui Xu and
+               Mingkui Tan and
+               Qingyao Wu and
+               Qi Wu},
+  editor    = {Marc'Aurelio Ranzato and
+               Alina Beygelzimer and
+               Yann N. Dauphin and
+               Percy Liang and
+               Jennifer Wortman Vaughan},
+  title     = {Debiased Visual Question Answering from Feature and Sample Perspectives},
+  booktitle = {Advances in Neural Information Processing Systems 34: Annual Conference
+               on Neural Information Processing Systems 2021, NeurIPS 2021, December
+               6-14, 2021, virtual},
+  pages     = {3784--3796},
+  year      = {2021},
+  url       = {https://proceedings.neurips.cc/paper/2021/hash/1f4477bad7af3616c1f933a02bfabe4e-Abstract.html},
+  timestamp = {Tue, 03 May 2022 16:20:47 +0200},
+  biburl    = {https://dblp.org/rec/conf/nips/WenXTWW21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

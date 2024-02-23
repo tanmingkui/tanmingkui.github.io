@@ -1,0 +1,17 @@
+@misc{https://doi.org/10.48550/arxiv.2003.13089,
+  doi = {10.48550/ARXIV.2003.13089},
+  
+  url = {https://arxiv.org/abs/2003.13089},
+  
+  author = {Niu, Shuaicheng and Wu, Jiaxiang and Zhang, Yifan and Guo, Yong and Zhao, Peilin and Huang, Junzhou and Tan, Mingkui},
+  
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {Disturbance-immune Weight Sharing for Neural Architecture Search},
+  
+  publisher = {arXiv},
+  
+  year = {2020},
+  
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
