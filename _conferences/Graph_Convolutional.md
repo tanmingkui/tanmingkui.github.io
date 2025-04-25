@@ -12,7 +12,7 @@ teaser :
 authors: "Runhao Zeng, Wenbing Huang, Mingkui Tan, Yu Rong, Peilin Zhao, Junzhou Huang, Chuang Gan"
 bibtex: Graph_Convolutional.txt
 uri: Graph_Convolutional.pdf
-arxiv: 
+arxiv: https://arxiv.org/pdf/1909.03252
 project: 
 source: https://github.com/Alvin-Zeng/PGCN
 poster: 

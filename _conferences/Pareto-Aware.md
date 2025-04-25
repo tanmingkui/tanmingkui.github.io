@@ -2,7 +2,7 @@
 title: "Pareto-Aware Neural Architecture Generation for Diverse Computational Budgets"
 collection: conferences
 permalink: /publication/Pareto-Aware
-date: 2023-06
+date: 2023-06-18
 year: "2023"
 venue: "CVPR"
 city: 

@@ -2,7 +2,7 @@
 title: "Learning Vision-and-Language Navigation from YouTube Videos"
 collection: conferences
 permalink: /publication/Learning_Vision
-date: 2023-10
+date: 2023-10-02
 year: "2023"
 venue: "ICCV"
 city: 

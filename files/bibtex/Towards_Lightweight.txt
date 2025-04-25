@@ -1,0 +1,10 @@
+@inproceedings{10558846,
+  author={Guo, Yong and Tan, Mingkui and Deng, Zeshuai and Wang, Jingdong and Chen, Qi and Cao, Jiezhang and Xu, Yanwu and Chen, Jian},
+  booktitle={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Towards Lightweight Super-Resolution With Dual Regression Learning}, 
+  year={2024},
+  volume={46},
+  number={12},
+  pages={8365-8379},
+  keywords={Redundancy;Image reconstruction;Computational modeling;Image coding;Task analysis;Superresolution;Training;Image super-resolution;dual regression;closed-loop learning;lightweight models},
+  doi={10.1109/TPAMI.2024.3406556}}

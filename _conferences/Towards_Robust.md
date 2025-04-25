@@ -2,7 +2,7 @@
 title: "Towards Robust and Efficient Cloud-Edge Elastic Model Adaptation via Selective Entropy Distillation"
 collection: conferences
 permalink: /publication/Towards_Robust
-date: 2024-05
+date: 2024-05-07
 year: "2024"
 venue: "ICLR"
 city: 

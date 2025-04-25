@@ -13,7 +13,7 @@ authors: "Runhao Zeng, Haoming Xu, Wenbing Huang, Peihao Chen, Mingkui Tan, Chua
 bibtex: Dense.txt
 uri: Dense.pdf
 supp: Dense_Supplementary.pdf
-arxiv: 
+arxiv: https://arxiv.org/pdf/2004.03545
 project: 
 source: https://github.com/Alvin-Zeng/DRN
 poster: 

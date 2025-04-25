@@ -2,7 +2,7 @@
 title: "Digging out Discrimination Information from Generated Samples for Robust Visual Question Answering"
 collection: conferences
 permalink: /publication/Digging_out
-date: 2023-07
+date: 2023-07-09
 year: "2023"
 venue: "ACL"
 city: 

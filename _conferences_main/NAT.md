@@ -1,6 +1,6 @@
 ---
 title: "NAT: Neural Architecture Transformer for Accurate and Compact Architectures"
-collection: conferences_main
+collection: conferences
 permalink: /publication/NAT
 date: 2019-10-10
 year: "2019"

@@ -2,7 +2,7 @@
 title: "Hard Sample Matters a Lot in Zero-Shot Quantization"
 collection: conferences
 permalink: /publication/Hard_Sample
-date: 2023-06
+date: 2023-06-18
 year: "2023"
 venue: "CVPR"
 city: 

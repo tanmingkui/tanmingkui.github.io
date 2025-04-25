@@ -12,9 +12,9 @@ teaser :
 authors: "Yifan Yang, Shuhai Zhang, Zixiong Huang, Yubing Zhang, Mingkui Tan "
 bibtex: Cross-ray.txt
 uri: Cross-ray.pdf
-arxiv: 
+arxiv: https://arxiv.org/abs/2307.08093
 project: 
-source: "https://github.com/YifYang993/CR-NeRF-PyTorch.git"
+source: https://github.com/YifYang993/CR-NeRF-PyTorch.git
 poster: 
 data: 
 ---

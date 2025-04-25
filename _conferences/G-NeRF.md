@@ -2,7 +2,7 @@
 title: "G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images"
 collection: conferences
 permalink: /publication/G-NeRF
-date: 2024
+date: 2024-04-11
 year: "2024"
 venue: "CVPR"
 city: 

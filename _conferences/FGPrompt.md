@@ -2,7 +2,7 @@
 title: "FGPrompt: Fine-grained Goal Prompting for Image-goal Navigation"
 collection: conferences
 permalink: /publication/FGPrompt
-date: 2023
+date: 2023-12-15
 year: "2023"
 venue: "NeurIPS"
 city: 

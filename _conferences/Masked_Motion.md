@@ -2,8 +2,8 @@
 title: "Masked Motion Encoding for Self-Supervised Video Representation Learning"
 collection: conferences
 permalink: /publication/Masked_Motion
-date: 2023-06
-year: "2024"
+date: 2023-06-18
+year: "2023"
 venue: "CVPR"
 city: 
 state: ""

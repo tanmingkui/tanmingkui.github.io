@@ -13,7 +13,8 @@ authors: "Senmao Ye, Huan Wang, Mingkui Tan, Fei Liu"
 bibtex: Recurrent.txt
 uri: Recurrent.pdf
 arxiv: https://arxiv.org/abs/2204.10482
-project: 
+project:  https://github.com/senmaoy/Recurrent-Affine-Transformation
+for-Text-to-image-Synthesis.git
 source:
 poster:
 data:
