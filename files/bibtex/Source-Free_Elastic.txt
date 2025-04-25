@@ -1,0 +1,10 @@
+@ARTICLE{10856447,
+  author={Tan, Mingkui and Chen, Peihao and Zhi, Hongyan and Mai, Jiajie and Rosman, Benjamin and Ji, Dongyu and Zeng, Runhao},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Source-Free Elastic Model Adaptation for Vision-and-Language Navigation}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-13},
+  keywords={Adaptation models;Navigation;Testing;Data models;Training;Feature extraction;Training data;Visualization;Trajectory;Reinforcement learning;Multi-Modal;Vision-and-Language Navigation;Test-Time Adaptation},
+  doi={10.1109/TMM.2025.3535356}}

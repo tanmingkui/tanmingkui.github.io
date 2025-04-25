@@ -1,0 +1,10 @@
+@ARTICLE{10332249,
+  author={Luo, Hui and Zhuang, Zhuangwei and Li, Yuanqing and Tan, Mingkui and Chen, Cen and Zhang, Jianlin},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Toward Compact and Robust Model Learning Under Dynamically Perturbed Environments}, 
+  year={2024},
+  volume={34},
+  number={6},
+  pages={4857-4873},
+  keywords={Robustness;Data models;Perturbation methods;Training;Computational modeling;Predictive models;Pipelines;Network pruning;robustness;dynamically perturbed environments;intermediate features;adversarial pruning},
+  doi={10.1109/TCSVT.2023.3337538}}

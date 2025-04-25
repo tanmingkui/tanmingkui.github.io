@@ -1,0 +1,8 @@
+@InProceedings{Li_2023_CVPR,
+    author    = {Li, Huantong and Wu, Xiangmiao and Lv, Fanbing and Liao, Daihai and Li, Thomas H. and Zhang, Yonggang and Han, Bo and Tan, Mingkui},
+    title     = {Hard Sample Matters a Lot in Zero-Shot Quantization},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {24417-24426}
+}

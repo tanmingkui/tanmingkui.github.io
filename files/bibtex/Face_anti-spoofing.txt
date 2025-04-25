@@ -1,0 +1,13 @@
+@article{LI2024106275,
+title = {Face anti-spoofing with cross-stage relation enhancement and spoof material perception},
+journal = {Neural Networks},
+volume = {175},
+pages = {106275},
+year = {2024},
+issn = {0893-6080},
+doi = {https://doi.org/10.1016/j.neunet.2024.106275},
+url = {https://www.sciencedirect.com/science/article/pii/S0893608024001990},
+author = {Daiyuan Li and Guo Chen and Xixian Wu and Zitong Yu and Mingkui Tan},
+keywords = {Face anti-spoofing, Presentation attack, Transformer, Dataset},
+abstract = {Face Anti-Spoofing (FAS) seeks to protect face recognition systems from spoofing attacks, which is applied extensively in scenarios such as access control, electronic payment, and security surveillance systems. Face anti-spoofing requires the integration of local details and global semantic information. Existing CNN-based methods rely on small stride or image patch-based feature extraction structures, which struggle to capture spatial and cross-layer feature correlations effectively. Meanwhile, Transformer-based methods have limitations in extracting discriminative detailed features. To address the aforementioned issues, we introduce a multi-stage CNN-Transformer-based framework, which extracts local features through the convolutional layer and long-distance feature relationships via self-attention. Based on this, we proposed a cross-attention multi-stage feature fusion, employing semantically high-stage features to query task-relevant features in low-stage features for further cross-stage feature fusion. To enhance the discrimination of local features for subtle differences, we design pixel-wise material classification supervision and add a auxiliary branch in the intermediate layers of the model. Moreover, to address the limitations of a single acquisition environment and scarcity of acquisition devices in the existing Near-Infrared dataset, we create a large-scale Near-Infrared Face Anti-Spoofing dataset with 380k pictures of 1040 identities. The proposed method could achieve the state-of-the-art in OULU-NPU and our proposed Near-Infrared dataset at just 1.3GFlops and 3.2M parameter numbers, which demonstrate the effective of the proposed method.}
+}

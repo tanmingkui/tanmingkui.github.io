@@ -1,0 +1,10 @@
+@ARTICLE{10310015,
+  author={Ding, Ning and Deng, Chaorui and Tan, Mingkui and Du, Qing and Ge, Zhiwei and Wu, Qi},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Image Captioning With Controllable and Adaptive Length Levels}, 
+  year={2024},
+  volume={46},
+  number={2},
+  pages={764-779},
+  keywords={Training;Sports;Decoding;Complexity theory;Semantics;Transformers;Visualization;Length-controllable image captioning;non-autoregressive image captioning;length level reranking;refinement-enhanced sequence training},
+  doi={10.1109/TPAMI.2023.3328298}}

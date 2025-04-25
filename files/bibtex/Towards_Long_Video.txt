@@ -1,0 +1,10 @@
+@ARTICLE{10789221,
+  author={You, Zeng and Wen, Zhiquan and Chen, Yaofo and Li, Xin and Zeng, Runhao and Wang, Yaowei and Tan, Mingkui},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Towards Long Video Understanding via Fine-detailed Video Story Generation}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Visualization;Termination of employment;Semantics;Circuits and systems;Large language models;Feature extraction;Training;Streaming media;Redundancy;Interference;Foundation Models;Video Understanding;Large Language Models},
+  doi={10.1109/TCSVT.2024.3514820}}

@@ -1,0 +1,8 @@
+@InProceedings{Sun_2023_CVPR,
+    author    = {Sun, Xinyu and Chen, Peihao and Chen, Liangwei and Li, Changhao and Li, Thomas H. and Tan, Mingkui and Gan, Chuang},
+    title     = {Masked Motion Encoding for Self-Supervised Video Representation Learning},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {2235-2245}
+}

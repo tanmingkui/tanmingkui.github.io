@@ -1,0 +1,10 @@
+@ARTICLE{10541899,
+  author={Tan, Mingkui and Zhuang, Zhuangwei and Chen, Sitao and Li, Rong and Jia, Kui and Wang, Qicheng and Li, Yuanqing},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={EPMF: Efficient Perception-Aware Multi-Sensor Fusion for 3D Semantic Segmentation}, 
+  year={2024},
+  volume={46},
+  number={12},
+  pages={8258-8273},
+  keywords={Point cloud compression;Laser radar;Cameras;Semantic segmentation;Three-dimensional displays;Feature extraction;Sensors;3D semantic segmentation;autonomous driving;deep neural networks;multi-sensor fusion;scene understanding},
+  doi={10.1109/TPAMI.2024.3402232}}

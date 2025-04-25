@@ -1,0 +1,7 @@
+@inproceedings{huang2024g,
+  title={G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images},
+  author={Huang, Zixiong and Chen, Qi and Sun, Libo and Yang, Yifan and Wang, Naizhou and Wu, Qi and Tan, Mingkui},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={10117--10126},
+  year={2024}
+}

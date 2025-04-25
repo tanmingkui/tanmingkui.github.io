@@ -1,0 +1,8 @@
+@InProceedings{Guo_2023_CVPR,
+    author    = {Guo, Yong and Chen, Yaofo and Zheng, Yin and Chen, Qi and Zhao, Peilin and Huang, Junzhou and Chen, Jian and Tan, Mingkui},
+    title     = {Pareto-Aware Neural Architecture Generation for Diverse Computational Budgets},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2023},
+    pages     = {2248-2258}
+}

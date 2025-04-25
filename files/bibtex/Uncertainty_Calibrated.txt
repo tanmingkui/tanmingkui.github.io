@@ -1,0 +1,10 @@
+@ARTICLE{10964530,
+  author={Tan, Mingkui and Chen, Guohao and Wu, Jiaxiang and Zhang, Yifan and Chen, Yaofo and Zhao, Peilin and Niu, Shuaicheng},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Uncertainty-Calibrated Test-Time Model Adaptation without Forgetting}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Adaptation models;Uncertainty;Predictive models;Data models;Entropy;Training;Calibration;Computational modeling;Degradation;Testing;Out-of-Distribution Generalization;Test-Time Adaptation;Confidence Calibration;Catastrophic Forgetting},
+  doi={10.1109/TPAMI.2025.3560696}}

@@ -1,7 +1,8 @@
-@inproceedings{yang2024hilo,
-  title={HiLo: Detailed and Robust 3D Clothed Human Reconstruction with High-and Low-Frequency Information of Parametric Models},
-  author={Yang, Yifan and Liu, Dong and Zhang, Shuhai and Deng, Zeshuai and Huang, Zixiong and Tan, Mingkui},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={10671--10681},
-  year={2024}
+@InProceedings{Yang_2024_CVPR,
+    author    = {Yang, Yifan and Liu, Dong and Zhang, Shuhai and Deng, Zeshuai and Huang, Zixiong and Tan, Mingkui},
+    title     = {HiLo: Detailed and Robust 3D Clothed Human Reconstruction with High-and Low-Frequency Information of Parametric Models},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {10671-10681}
 }
