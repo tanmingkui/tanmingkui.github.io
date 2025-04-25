@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/Towards_Long_Video
 date: 2024-12-11
 year: "2024"
-venue: "IEEE Transactions on Circuits and Systems for Video Technology"
+venue: "TCSVT"
 city: 
 state: ""
 thumbnail: "Towards_Long_Video.png"

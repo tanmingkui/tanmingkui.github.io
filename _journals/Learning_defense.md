@@ -13,8 +13,8 @@ authors: "Jincheng Li, Shuhai Zhang, Jiezhang Cao, Mingkui Tan"
 bibtex: Learning_defense.txt
 uri: Learning_defense.pdf
 arxiv: 
-project: https://github.com/SCUTjinchengli/DefenseTransformer
-source:
+project: 
+source: https://github.com/SCUTjinchengli/DefenseTransformer
 poster:
 data:
 ---

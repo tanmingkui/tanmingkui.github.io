@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/Face_anti-spoofing
 date: 2024-03-25
 year: "2024"
-venue: "Neural Networks"
+venue: "Neural Netw."
 city: 
 state: ""
 thumbnail: "Face_anti-spoofing.png"

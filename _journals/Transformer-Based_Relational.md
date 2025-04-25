@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/Transformer-Based_Relational
 date: 2023-08-25
 year: "2023"
-venue: "ACM Transactions on Multimedia Computing, Communications and Applications, Volume 20, Issue 1"
+venue: "ACM Trans. Multimedia Comput. Commun. Appl., Volume 20, Issue 1"
 city: 
 state: ""
 thumbnail: "Transformer-Based_Relational.png"

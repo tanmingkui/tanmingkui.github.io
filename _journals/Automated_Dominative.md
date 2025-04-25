@@ -1,10 +1,10 @@
 ---
 title: "Automated Dominative Subspace Mining for Efficient Neural Architecture Search"
-collection:  journals
+collection: journals
 permalink: /publication/Automated_Dominative
 date: 2024-04-30
 year: "2024"
-venue: "IEEE Transactions on Circuits and Systems for Video Technology ( Volume: 34, Issue: 10, October 2024)"
+venue: "IEEE TCSVT"
 city: 
 state: ""
 thumbnail: "Automated_Dominative.png"

@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/Learning_to_Generate
 date: 2024-05-09
 year: "2024"
-venue: "IEEE Transactions on Circuits and Systems for Video Technology ( Volume: 34, Issue: 10, October 2024)"
+venue: "IEEE TCSVT"
 city: 
 state: ""
 thumbnail: "Learning_to_Generate.png"

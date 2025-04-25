@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/Source-Free_Elastic
 date: 2025-01-28
 year: "2025"
-venue: "IEEE Transactions on Multimedia"
+venue: "TMM"
 city: 
 state: ""
 thumbnail: "Source-Free_Elastic.png"

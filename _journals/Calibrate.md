@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/Calibrate 
 date: 2024-04-26
 year: "2024"
-venue: "IEEE Transactions on Medical Imaging ( Volume: 43, Issue: 9, September 2024)"
+venue: "IEEE TMI"
 city: 
 state: ""
 thumbnail: "Calibrate.png"
