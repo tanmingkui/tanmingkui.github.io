@@ -1,0 +1,10 @@
+@inproceedings{10100901,
+  author={Ye, Senmao and Wang, Huan and Tan, Mingkui and Liu, Fei},
+  booktitle={IEEE Transactions on Multimedia}, 
+  title={Recurrent Affine Transformation for Text-to-Image Synthesis}, 
+  year={2024},
+  volume={26},
+  number={},
+  pages={462-473},
+  keywords={Generators;Visualization;Fuses;Computational modeling;Generative adversarial networks;Training;Task analysis;Text-to-image;generative adversarial network;recurrent neural network;spatial attention},
+  doi={10.1109/TMM.2023.3266607}}

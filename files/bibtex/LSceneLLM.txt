@@ -1,0 +1,6 @@
+@inproceedings{zhi2024lscenellm,
+  title={LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences},
+  author={Zhi, Hongyan and Chen, Peihao and Li, Junyan and Ma, Shuailei and Sun, Xinyu and Xiang, Tianhang and Lei, Yinjie and Tan, Mingkui and Gan, Chuang},
+  booktitle={arXiv preprint arXiv:2412.01292},
+  year={2024}
+}

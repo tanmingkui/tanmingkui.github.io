@@ -1,0 +1,10 @@
+@article{liu2023single,
+  title={Single-path bit sharing for automatic loss-aware model compression},
+  author={Liu, Jing and Zhuang, Bohan and Chen, Peng and Shen, Chunhua and Cai, Jianfei and Tan, Mingkui},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={45},
+  number={10},
+  pages={12459--12473},
+  year={2023},
+  publisher={IEEE}
+}

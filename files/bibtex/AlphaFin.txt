@@ -1,0 +1,6 @@
+@inproceedings{li2024alphafin,
+  title={Alphafin: Benchmarking financial analysis with retrieval-augmented stock-chain framework},
+  author={Li, Xiang and Li, Zhenyu and Shi, Chen and Xu, Yong and Du, Qing and Tan, Mingkui and Huang, Jun and Lin, Wei},
+  booktitle={arXiv preprint arXiv:2403.12582},
+  year={2024}
+}

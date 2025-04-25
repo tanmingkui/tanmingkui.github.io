@@ -1,0 +1,6 @@
+@inproceedings{wang2024generating,
+  title={Generating Long-form Story Using Dynamic Hierarchical Outlining with Memory-Enhancement},
+  author={Wang, Qianyue and Hu, Jinwu and Li, Zhengping and Wang, Yufeng and Hu, Yu and Tan, Mingkui and others},
+  booktitle={arXiv preprint arXiv:2412.13575},
+  year={2024}
+}

@@ -1,0 +1,7 @@
+@inproceedings{yang2023cross,
+  title={Cross-ray neural radiance fields for novel-view synthesis from unconstrained image collections},
+  author={Yang, Yifan and Zhang, Shuhai and Huang, Zixiong and Zhang, Yubing and Tan, Mingkui},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={15901--15911},
+  year={2023}
+}

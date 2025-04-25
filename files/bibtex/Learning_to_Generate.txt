@@ -1,0 +1,10 @@
+@inproceedings{article,
+author = {Luo, Hui and Zhang, Shuhai and Zhuang, Zhuangwei and Mai, Jiajie and Tan, Mingkui and Zhang, Jianlin},
+year = {2024},
+month = {10},
+pages = {1-1},
+title = {Learning to Generate Diverse Data From a Temporal Perspective for Data-Free Quantization},
+volume = {PP},
+booktitle= {IEEE Transactions on Circuits and Systems for Video Technology},
+doi = {10.1109/TCSVT.2024.3399311}
+}

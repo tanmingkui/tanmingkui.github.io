@@ -1,0 +1,10 @@
+@article{xu2023generative,
+  title={Generative data free model quantization with knowledge matching for classification},
+  author={Xu, Shoukai and Zhang, Shuhai and Liu, Jing and Zhuang, Bohan and Wang, Yaowei and Tan, Mingkui},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  volume={33},
+  number={12},
+  pages={7296--7309},
+  year={2023},
+  publisher={IEEE}
+}

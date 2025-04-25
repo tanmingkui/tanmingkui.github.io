@@ -1,0 +1,6 @@
+@inproceedings{chen2024cross,
+  title={Cross-Device Collaborative Test-Time Adaptation},
+  author={Chen, Guohao and Niu, Shuaicheng and Chen, Deyu and Zhang, Shuhai and Li, Changsheng and Li, Yuanqing and Tan, Mingkui},
+  booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+  year={2024}
+}

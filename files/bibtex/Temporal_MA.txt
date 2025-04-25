@@ -1,0 +1,10 @@
+@article{ruan2023temporal,
+  title={Temporal micro-action localization for videofluoroscopic swallowing study},
+  author={Ruan, Xianghui and Dai, Meng and Chen, Zhuokun and You, Zeng and Zhang, Yaowen and Li, Yuanqing and Dou, Zulin and Tan, Mingkui},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  volume={27},
+  number={12},
+  pages={5904--5913},
+  year={2023},
+  publisher={IEEE}
+}

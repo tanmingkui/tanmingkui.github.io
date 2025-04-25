@@ -1,0 +1,18 @@
+@inproceedings{10.1016/j.neunet.2023.03.008,
+author = {Li, Jincheng and Zhang, Shuhai and Cao, Jiezhang and Tan, Mingkui},
+title = {Learning defense transformations for counterattacking adversarial examples},
+year = {2023},
+issue_date = {Jul 2023},
+publisher = {Elsevier Science Ltd.},
+address = {GBR},
+volume = {164},
+number = {C},
+issn = {0893-6080},
+url = {https://doi.org/10.1016/j.neunet.2023.03.008},
+doi = {10.1016/j.neunet.2023.03.008},
+booktitle = {Neural Netw.},
+month = jul,
+pages = {177–185},
+numpages = {9},
+keywords = {Adversarial examples, Classification boundary, Defense transformations, Affine transformations}
+}

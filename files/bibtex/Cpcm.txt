@@ -1,0 +1,8 @@
+@InProceedings{Liu_2023_ICCV,
+    author    = {Liu, Lizhao and Zhuang, Zhuangwei and Huang, Shangxin and Xiao, Xunlong and Xiang, Tianhang and Chen, Cen and Wang, Jingdong and Tan, Mingkui},
+    title     = {CPCM: Contextual Point Cloud Modeling for Weakly-supervised Point Cloud Semantic Segmentation},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {18413-18422}
+}

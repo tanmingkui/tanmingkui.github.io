@@ -1,0 +1,10 @@
+@inproceedings{10648896,
+  author={Zeng, Jinghui and Li, Yucheng and Xu, Chen and Li, Shutao and Tan, Mingkui},
+  booktitle={IEEE Transactions on Instrumentation and Measurement}, 
+  title={Variable-Frequency Phase Unwrapping for High-Speed 3-D Shape Measurement}, 
+  year={2024},
+  volume={73},
+  number={},
+  pages={1-13},
+  keywords={Phase measurement;Three-dimensional displays;Frequency measurement;Cameras;Shape measurement;Accuracy;Shape;3-D shape measurement;digital fringe projection (DFP);geometric constraint;phase unwrapping;variable frequency},
+  doi={10.1109/TIM.2024.3450114}}

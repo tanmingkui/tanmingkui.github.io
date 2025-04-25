@@ -1,0 +1,8 @@
+@inproceedings{zhang2023detecting,
+  title={Detecting adversarial data by probing multiple perturbations using expected perturbation score},
+  author={Zhang, Shuhai and Liu, Feng and Yang, Jiahao and Yang, Yifan and Li, Changsheng and Han, Bo and Tan, Mingkui},
+  booktitle={International conference on machine learning},
+  pages={41429--41451},
+  year={2023},
+  organization={PMLR}
+}

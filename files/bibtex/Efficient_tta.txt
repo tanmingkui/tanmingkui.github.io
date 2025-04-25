@@ -1,0 +1,8 @@
+@inproceedings{deng2023efficient,
+  title={Efficient test-time adaptation for super-resolution with second-order degradation and reconstruction},
+  author={Deng, Zeshuai and Chen, Zhuokun and Niu, Shuaicheng and Li, Thomas and Zhuang, Bohan and Tan, Mingkui},
+  booktitle={Advances in Neural Information Processing Systems},
+  volume={36},
+  pages={74671--74701},
+  year={2023}
+}

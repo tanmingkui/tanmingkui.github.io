@@ -1,0 +1,6 @@
+@inproceedings{zhangs2024MMDMP,
+  title={Detecting Machine-Generated Texts by Multi-Population Aware Optimization for Maximum Mean Discrepancy},
+  author={Zhang, Shuhai and Song, Yiliao and Yang, Jiahao and Li, Yuanqing and Han, Bo and Tan, Mingkui},
+  booktitle = {International Conference on Learning Representations (ICLR)},
+  year={2024}
+}

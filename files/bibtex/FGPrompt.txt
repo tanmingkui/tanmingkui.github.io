@@ -1,0 +1,6 @@
+@inproceedings{xinyu2023fgprompt,
+  title={FGPrompt: fine-grained goal prompting for image-goal navigation},
+  author={Xinyu, S and Peihao, C and Jugang, F and Thomas, HL and Jian, C and Mingkui, T},
+  booktitle={Proceedings of the International Conference on Neural Information Processing Systems},
+  year={2023}
+}

@@ -1,0 +1,10 @@
+@inproceedings{10173554,
+  author={Wen, Zhiquan and Niu, Shuaicheng and Li, Ge and Wu, Qingyao and Tan, Mingkui and Wu, Qi},
+  booktitle={IEEE Transactions on Multimedia}, 
+  title={Test-Time Model Adaptation for Visual Question Answering With Debiased Self-Supervisions}, 
+  year={2024},
+  volume={26},
+  number={},
+  pages={2137-2147},
+  keywords={Adaptation models;Training;Visualization;Entropy;Task analysis;Question answering (information retrieval);Data models;Test-time adaptation;visual question answering;test-time debiased self-supervised},
+  doi={10.1109/TMM.2023.3292597}}

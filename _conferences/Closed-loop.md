@@ -13,7 +13,7 @@ authors: "Yong Guo, Jian Chen, Jingdong Wang, Qi Chen, Jiezhang Cao, Zeshuai Den
 bibtex: Closed-Loop.txt
 uri: Closed-loop.pdf
 supp: Closed-loop_Supplementary.pdf
-arxiv: 
+arxiv: https://arxiv.org/pdf/2003.07018
 project: 
 source: https://github.com/guoyongcs/DRN
 poster: 

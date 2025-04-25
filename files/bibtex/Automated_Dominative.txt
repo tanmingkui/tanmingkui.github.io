@@ -1,0 +1,12 @@
+@inproceedings{Chen_2024,
+   title={Automated Dominative Subspace Mining for Efficient Neural Architecture Search},
+   volume={34},
+   ISSN={1558-2205},
+   url={http://dx.doi.org/10.1109/TCSVT.2024.3395463},
+   DOI={10.1109/tcsvt.2024.3395463},
+   number={10},
+   booktitle={IEEE Transactions on Circuits and Systems for Video Technology},
+   publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+   author={Chen, Yaofo and Guo, Yong and Liao, Daihai and Lv, Fanbing and Song, Hengjie and Tin-Yau Kwok, James and Tan, Mingkui},
+   year={2024},
+   month=oct, pages={9281–9297} }
