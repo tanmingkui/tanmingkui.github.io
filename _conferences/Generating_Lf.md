@@ -2,7 +2,7 @@
 title: "Generating Long-form Story Using Dynamic Hierarchical Outlining with Memory-Enhancement"
 collection: conferences
 permalink: /publication/Generating_Lf
-date: 2024-12-18
+date: 2025-04-1
 year: "2025"
 venue: "ACL"
 city: 

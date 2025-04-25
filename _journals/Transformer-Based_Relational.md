@@ -13,8 +13,8 @@ authors: "Mingkui Tan, Zhiquan Wen, Leyuan Fang, Qi Wu"
 bibtex: Transformer-Based_Relational.txt
 uri: Transformer-Based_Relational.pdf
 arxiv: 
-project: https://github.com/kexinyi/ns-vqa.
-source:
+project:
+source: https://github.com/kexinyi/ns-vqa
 poster:
 data:
 ---

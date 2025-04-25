@@ -4,7 +4,7 @@ collection:  journals
 permalink: /publication/Variable-Frequency
 date: 2024-08-26
 year: "2024"
-venue: "IEEE Transactions on Instrumentation and Measurement ( Volume: 73)"
+venue: "IEEE TIM ( Volume: 73)"
 city: 
 state: ""
 thumbnail: "Variable-Frequency.png"

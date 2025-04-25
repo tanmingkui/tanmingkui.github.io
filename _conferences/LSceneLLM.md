@@ -2,7 +2,7 @@
 title: "LSceneLLM: Enhancing Large 3D Scene Understanding Using Adaptive Visual Preferences"
 collection: conferences
 permalink: /publication/LSceneLLM
-date: 2024-12-2
+date: 2025-04-1
 year: "2025"
 venue: "CVPR"
 city: 

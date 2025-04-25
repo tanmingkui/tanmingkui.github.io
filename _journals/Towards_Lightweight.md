@@ -1,6 +1,6 @@
 ---
 title: "Towards lightweight super-resolution with dual regression learning"
-collection: conferences
+collection: journals
 permalink: /publication/Towards_Lightweight
 date: 2024-05-11
 year: "2024"

@@ -4,7 +4,7 @@ collection:  journals
 permalink: /publication/Visual_Grounding
 date: 2020-01-28
 year: "2020"
-venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+venue: "TPAMI"
 city: 
 state: ""
 thumbnail: "Visual_Grounding.png"
