@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "FGPrompt.png"
 teaser :
-authors: "Xinyu Sun, Peihao Chen, Jugang Fan, Jian Chen, Thomas H. Li, Mingkui tan"
+authors: "Xinyu Sun, Peihao Chen, Jugang Fan, Jian Chen, Thomas H. Li, Mingkui Tan"
 bibtex: FGPrompt.txt
 uri: FGPrompt.pdf
 arxiv: https://arxiv.org/abs/2310.07473

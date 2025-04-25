@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Generating_Lf.png"
 teaser :
-authors: "Qianyue Wang, Jinwu Hu, Zhengping Li, Yufeng Wang, daiyuan li, Yu Hu, Mingkui tan"
+authors: "Qianyue Wang, Jinwu Hu, Zhengping Li, Yufeng Wang, daiyuan li, Yu Hu, Mingkui Tan"
 bibtex: Generating_Lf.txt
 uri: Generating_Lf.pdf
 arxiv: https://arxiv.org/abs/2412.13575

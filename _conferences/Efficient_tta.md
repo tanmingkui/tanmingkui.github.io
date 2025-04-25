@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Efficient_tta.png"
 teaser :
-authors: "Zeshuai Deng, Zhuokun Chen, Shuaicheng Niu, Thomas H. Li, Bohan Zhuang, Mingkui tan"
+authors: "Zeshuai Deng, Zhuokun Chen, Shuaicheng Niu, Thomas H. Li, Bohan Zhuang, Mingkui Tan"
 bibtex: Efficient_tta.txt
 uri: Efficient_tta.pdf
 arxiv: https://arxiv.org/abs/2310.19011

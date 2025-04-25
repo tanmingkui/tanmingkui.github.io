@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "G-NeRF.png"
 teaser :
-authors: "Zixiong Huang, Qi Chen, Libo Sun, Yifan Yang, Naizhou Wang, Qi Wu, Mingkui tan"
+authors: "Zixiong Huang, Qi Chen, Libo Sun, Yifan Yang, Naizhou Wang, Qi Wu, Mingkui Tan"
 bibtex: G-NeRF.txt
 uri: G-NeRF.pdf
 arxiv: https://arxiv.org/abs/2404.07474

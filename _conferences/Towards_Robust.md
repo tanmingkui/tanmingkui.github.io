@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Towards_Robust.png"
 teaser :
-authors: "Yaofo Chen, Shuaicheng Niu, Yaowei Wang, Shoukai Xu, Hengjie Song, Mingkui tan"
+authors: "Yaofo Chen, Shuaicheng Niu, Yaowei Wang, Shoukai Xu, Hengjie Song, Mingkui Tan"
 bibtex: Towards_Robust.txt
 uri: Towards_Robust.pdf
 arxiv: https://arxiv.org/abs/2402.17316

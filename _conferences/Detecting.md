@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Detecting.png"
 teaser :
-authors: "Shuhai Zhang, Feng Liu, Jiahao Yang, Yifan Yang, Changsheng Li, Bo Han, Mingkui tan"
+authors: "Shuhai Zhang, Feng Liu, Jiahao Yang, Yifan Yang, Changsheng Li, Bo Han, Mingkui Tan"
 bibtex: Detecting.txt
 uri: Detecting.pdf
 arxiv: https://arxiv.org/abs/2305.16035

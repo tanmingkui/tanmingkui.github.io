@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/Toward_Compact
 date: 2023-11-28
 year: "2023"
-venue: "IEEE Transactions on Circuits and Systems for Video Technology"
+venue: "TCSVT"
 city: 
 state: ""
 thumbnail: "Toward_Compact.png"

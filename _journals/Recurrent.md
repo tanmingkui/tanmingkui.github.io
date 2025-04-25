@@ -4,7 +4,7 @@ collection: journals
 permalink: /publication/Recurrent
 date: 2023-04-12
 year: "2023"
-venue: "IEEE Transactions on Multimedia ( Volume: 26)"
+venue: "IEEE TMM"
 city: 
 state: ""
 thumbnail: "Recurrent.png"

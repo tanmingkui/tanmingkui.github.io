@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Single-Path.png"
 teaser : 
-authors: "Jing Liu, Bohan Zhuang, Peng Chen, Chunhua Shen, Jianfei Cai, Mingkui tan"
+authors: "Jing Liu, Bohan Zhuang, Peng Chen, Chunhua Shen, Jianfei Cai, Mingkui Tan"
 bibtex: Single-Path.txt
 uri: Single-Path.pdf
 arxiv: https://arxiv.org/abs/2101.04935

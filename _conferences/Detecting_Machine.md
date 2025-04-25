@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Detecting_Machine.png"
 teaser :
-authors: "Shuhai Zhang, Yiliao Song, Jiahao Yang, Yuanqing Li, Bo Han, Mingkui tan"
+authors: "Shuhai Zhang, Yiliao Song, Jiahao Yang, Yuanqing Li, Bo Han, Mingkui Tan"
 bibtex: Detecting_Machine.txt
 uri: Detecting_Machine.pdf
 arxiv: https://arxiv.org/abs/2402.16041

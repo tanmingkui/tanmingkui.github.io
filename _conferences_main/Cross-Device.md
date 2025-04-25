@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Cross-Device.png"
 teaser :
-authors: "Guohao Chen, Shuaicheng Niu, Deyu Chen, Shuhai Zhang, Changsheng Li, Yuanqing Li, Mingkui tan"
+authors: "Guohao Chen, Shuaicheng Niu, Deyu Chen, Shuhai Zhang, Changsheng Li, Yuanqing Li, Mingkui Tan"
 bibtex: Cross-Device.txt
 uri: Cross-Device.pdf
 arxiv: 

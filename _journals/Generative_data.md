@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Generative_data.png"
 teaser : 
-authors: "Shoukai Xu, Shuhai Zhang, Jing Liu, Bohan Zhuang, Yaowei Wang, Mingkui tan"
+authors: "Shoukai Xu, Shuhai Zhang, Jing Liu, Bohan Zhuang, Yaowei Wang, Mingkui Tan"
 bibtex: Generative_data.txt
 uri: Generative_data.pdf
 arxiv: 

@@ -9,7 +9,7 @@ city:
 state: ""
 thumbnail: "Temporal_MA.png"
 teaser : 
-authors: "Xianghui Ruan, Meng Dai, Zhuokun Chen, Zeng You, Yaowen Zhang, Yuanqing Li, Zulin Dou, Mingkui tan"
+authors: "Xianghui Ruan, Meng Dai, Zhuokun Chen, Zeng You, Yaowen Zhang, Yuanqing Li, Zulin Dou, Mingkui Tan"
 bibtex: Temporal_MA.txt
 uri: Temporal_MA.pdf
 arxiv: 
