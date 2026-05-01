@@ -37,7 +37,7 @@ Doctoral Students
 * Jinwu Hu
 * Yuxin Gao
 * Yufeng Wang
-* Guohao Chen
+* Chenghao Li
 
 Graduate Students
 --------
