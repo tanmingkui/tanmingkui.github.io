@@ -1,0 +1,10 @@
+@INPROCEEDINGS{11331377,
+  author={Xu, Shoukai and Zeng, Runhao and Zhang, Zhiyang and Huang, Hao and Zheng, Qingfang and Lan, Xiangyuan and Wang, Yaowei and Tan, Mingkui},
+  booktitle={2025 IEEE International Conference on Cloud Computing Technology and Science (CloudCom)}, 
+  title={QER: Quantized Low-Rank Error Reconstructor for LLM Low-Bitwidth Quantization}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Training;Adaptation models;Cloud computing;Quantization (signal);Accuracy;Computational modeling;Large language models;Scalability;Merging;Error correction;Large language model;efficient computing;quantization-aware training;error correction},
+  doi={10.1109/CloudCom67567.2025.11331377}}
