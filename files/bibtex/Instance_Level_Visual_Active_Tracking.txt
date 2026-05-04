@@ -1,0 +1,6 @@
+@inproceedings{sun2026instance,
+  title={Instance-level Visual Active Tracking with Occlusion-Aware Planning},
+  author={Sun, Haowei and Zhou, Kai and Gao, Hao and Zhang, Shiteng and Hu, Jinwu and Wen, Xutao and Ye, Qixiang and Tan, Mingkui},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2026}
+}

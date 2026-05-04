@@ -1,0 +1,6 @@
+@inproceedings{hu2025CKARL,
+  title={Continual Knowledge Adaptation for Reinforcement Learning},
+  author={Hu, Jinwu and Lian, Zihao and Wen, Zhiquan and Li, Chenghao and Chen, Guohao and Wen, Xutao and Xiao, Bin and Tan, Mingkui},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2025}
+}

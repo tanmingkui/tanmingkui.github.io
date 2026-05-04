@@ -1,0 +1,9 @@
+@inproceedings{xiang2026fam,
+  title={FAM: Fine-Grained Alignment Matters in Multimodal Embedding Learning with Large Vision-Language Models},
+  author={Xiang, Tianhang and Li, Yirui and Liu, Lizhao and Zhi, Hongyan and Chen, Chuanshen and Du, Qing and Tan, Mingkui},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={32},
+  pages={27046--27054},
+  year={2026}
+}

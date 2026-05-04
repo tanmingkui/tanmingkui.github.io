@@ -1,0 +1,7 @@
+@article{tan2026bidirectional,
+  title={Bidirectional Temporal-Sensitive Adaptation for Generalized Zero-Shot Temporal Action Localization},
+  author={Tan, Mingkui and Qian, Yihao and Wang, Yirui and Zeng, Runhao and Leung, Victor CM and Hu, Xiping},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2026},
+  publisher={IEEE}
+}

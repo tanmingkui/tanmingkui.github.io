@@ -1,0 +1,9 @@
+@inproceedings{fan2026navla,
+  title={NaVLA $\^{} 2$: A Vision-Language-Audio-Action Model for Multimodal Instruction Navigation},
+  author={Fan, Jugang and Chen, Peihao and Li, Changhao and Du, Qing and Chen, Jian and Tan, Mingkui},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={22},
+  pages={18234--18242},
+  year={2026}
+}

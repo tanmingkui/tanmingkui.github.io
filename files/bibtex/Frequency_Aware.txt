@@ -1,0 +1,7 @@
+@inproceedings{chen2025frequency,
+  title={Frequency-aware autoregressive modeling for efficient high-resolution image synthesis},
+  author={Chen, Zhuokun and Fan, Jugang and Yu, Zhuowei and Zhuang, Bohan and Tan, Mingkui},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={17140--17149},
+  year={2025}
+}
