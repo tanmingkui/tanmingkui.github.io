@@ -1,0 +1,8 @@
+@article{yang2026focalgaussian,
+  title={FocalGaussian: Improving Text-Driven 3D Human Generation with Body Part Focus},
+  author={Yang, Yifan and Deng, Zeshuai and Liu, Dong and Huang, Zixiong and Zhou, Kai and Luo, Hailin and Du, Qing and Tan, Mingkui},
+  journal={Pattern Recognition},
+  pages={112923},
+  year={2026},
+  publisher={Elsevier}
+}

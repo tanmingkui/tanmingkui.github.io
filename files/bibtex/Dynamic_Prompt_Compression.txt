@@ -1,0 +1,7 @@
+@article{hu2026dynamic,
+  title={Dynamic Prompt Compression for Efficient Inference of Large Language Models},
+  author={Hu, Jinwu and Zhang, Wei and Wang, Yufeng and Hu, Yu and Xiao, Bin and Tan, Mingkui and Du, Qing},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2026},
+  publisher={IEEE}
+}

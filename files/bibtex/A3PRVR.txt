@@ -1,0 +1,9 @@
+@inproceedings{chen2026action,
+  title={Action-and-object Aware Alignment for Partially Relevant Video Retrieval},
+  author={Chen, Chuanshen and Zhou, Kai and Wen, Zhiquan and You, Zeng and Li, Yirui and Xiang, Tianhang and Tan, Mingkui},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={4},
+  pages={2814--2822},
+  year={2026}
+}

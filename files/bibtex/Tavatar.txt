@@ -1,0 +1,6 @@
+@inproceedings{luo2026tavatar,
+  title={Tavatar: Topology-Aware Gaussian Attribute Derivation for Animatable Human Avatars},
+  author={Luo, Hailin and Yang, Yifan and Shu, Jiazhi and Huang, Zixiong and Chen, Qi and Du, Qing and Tan, Mingkui},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2026}
+}
