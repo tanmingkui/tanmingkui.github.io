@@ -1,0 +1,8 @@
+@inproceedings{qiao2025open,
+  title={Open-nav: Exploring zero-shot vision-and-language navigation in continuous environment with open-source llms},
+  author={Qiao, Yanyuan and Lyu, Wenqi and Wang, Hui and Wang, Zixu and Li, Zerui and Zhang, Yuan and Tan, Mingkui and Wu, Qi},
+  booktitle={2025 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={6710--6717},
+  year={2025},
+  organization={IEEE}
+}

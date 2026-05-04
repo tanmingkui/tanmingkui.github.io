@@ -1,0 +1,6 @@
+@inproceedings{sun2025openworld,
+  title={Open-World Drone Active Tracking with Goal-Centered Rewards},
+  author={Haowei Sun and Jinwu Hu and Zhirui Zhang and Haoyuan Tian and Xinze Xie and Yufeng Wang and Xiaohua Xie and Yun Lin and Zhuliang Yu and Mingkui Tan},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  year={2025}
+}

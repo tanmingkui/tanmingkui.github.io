@@ -1,0 +1,6 @@
+@inproceedings{zhang2025physicsdriven,
+  title={Physics-Driven Spatiotemporal Modeling for {AI}-Generated Video Detection},
+  author={Shuhai Zhang and ZiHao Lian and Jiahao Yang and Daiyuan Li and Guoxuan Pang and Feng Liu and Bo Han and Shutao Li and Mingkui Tan},
+  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+  year={2025}
+}
