@@ -2,7 +2,7 @@
 title: "Frequency-aware autoregressive modeling for efficient high-resolution image synthesis"
 collection: conferences
 permalink: /publication/Frequency_Aware
-date: 
+date: 2025-10-19
 year: "2025"
 venue: "ICCV"
 city: 

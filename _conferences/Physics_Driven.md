@@ -2,7 +2,7 @@
 title: "Physics-Driven Spatiotemporal Modeling for AI-Generated Video Detection"
 collection: conferences
 permalink: /publication/Physics_Driven
-date: 
+date: 2025-12-02
 year: "2025"
 venue: "NeurIPS"
 city: 

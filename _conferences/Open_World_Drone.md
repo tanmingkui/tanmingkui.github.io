@@ -2,7 +2,7 @@
 title: "Open-World Drone Active Tracking with Goal-Centered Rewards"
 collection: conferences
 permalink: /publication/Open_World_Drone
-date: 
+date: 2025-12-02
 year: "2025"
 venue: "NeurIPS"
 city: 

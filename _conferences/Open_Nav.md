@@ -2,7 +2,7 @@
 title: "Open-nav: Exploring zero-shot vision-and-language navigation in continuous environment with open-source llms"
 collection: conferences
 permalink: /publication/Open_Nav
-date: 
+date: 2025-05-19
 year: "2025"
 venue: "ICRA"
 city: 

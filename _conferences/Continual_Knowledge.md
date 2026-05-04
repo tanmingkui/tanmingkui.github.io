@@ -2,7 +2,7 @@
 title: "Continual Knowledge Adaptation for Reinforcement Learning"
 collection: conferences
 permalink: /publication/Continual_Knowledge
-date: 
+date: 2025-12-02
 year: "2025"
 venue: "NeurIPS"
 city: 
