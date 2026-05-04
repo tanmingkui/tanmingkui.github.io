@@ -1,0 +1,10 @@
+@ARTICLE{11086409,
+  author={Wen, Zhiquan and Tan, Mingkui and Wang, Yaowei and Wu, Qingyao and Wu, Qi},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Enhanced Reasoning via Multimodal LLMs and Collaborative Inference}, 
+  year={2025},
+  volume={27},
+  number={},
+  pages={7166-7178},
+  keywords={Cognition;Training;Adaptation models;Large language models;Accuracy;Collaboration;Visualization;Reliability;Question answering (information retrieval);Predictive models;Collaborative inference;multimodal large language model;zero-shot visual question answering},
+  doi={10.1109/TMM.2025.3590940}}

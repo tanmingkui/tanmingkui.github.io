@@ -1,0 +1,8 @@
+@inproceedings{
+hu2025testtime,
+title={Test-Time Learning for Large Language Models},
+author={Jinwu Hu and Zitian Zhang and Guohao Chen and Xutao Wen and Chao Shuai and Wei Luo and Bin Xiao and Yuanqing Li and Mingkui Tan},
+booktitle={Forty-second International Conference on Machine Learning},
+year={2025},
+url={https://openreview.net/forum?id=iCYbIaGKSR}
+}

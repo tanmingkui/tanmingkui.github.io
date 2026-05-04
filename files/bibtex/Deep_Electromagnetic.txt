@@ -1,0 +1,8 @@
+@inproceedings{
+zheng2025deep,
+title={Deep Electromagnetic Structure Design Under Limited Evaluation Budgets},
+author={Shijian Zheng and Fangxiao Jin and Shuhai Zhang and Quan Xue and Mingkui Tan},
+booktitle={Forty-second International Conference on Machine Learning},
+year={2025},
+url={https://openreview.net/forum?id=i9jUoxSM7Q}
+}

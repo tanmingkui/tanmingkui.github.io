@@ -1,0 +1,8 @@
+@inproceedings{
+anonymous2026futuregain,
+title={Future-Gain Guided Test-Time Learning for Large Language Models},
+author={Anonymous},
+booktitle={Forty-third International Conference on Machine Learning},
+year={2026},
+url={https://openreview.net/forum?id=CEnPJAQTUu}
+}

@@ -1,0 +1,8 @@
+@inproceedings{
+xu2025testtime,
+title={Test-time Adapted Reinforcement Learning with Action Entropy Regularization},
+author={Shoukai Xu and ZihaoLian and Mingkui Tan and Liu Liu and Zhong Zhang and Peilin Zhao},
+booktitle={Forty-second International Conference on Machine Learning},
+year={2025},
+url={https://openreview.net/forum?id=Xv1jY6U0pT}
+}

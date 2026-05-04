@@ -1,0 +1,10 @@
+@article{tan2025auto,
+  title={Auto-3d-house design from structured user requirements},
+  author={Tan, Minkui and Chen, Qi and Huang, Zixiong and Wu, Qi and Li, Yuanqing and Zhou, Jiaqiu},
+  journal={Machine Intelligence Research},
+  volume={22},
+  number={2},
+  pages={368--385},
+  year={2025},
+  publisher={Springer}
+}

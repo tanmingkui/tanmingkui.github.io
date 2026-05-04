@@ -1,0 +1,10 @@
+@ARTICLE{11194278,
+  author={Li, Daiyuan and Yu, Zitong and Hu, Jinwu and Chen, Guohao and Zeng, Jinghui and Tan, Mingkui},
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  title={Fine-Grained Textual Guidance for Generalized Multi-Modal Face Anti-Spoofing}, 
+  year={2025},
+  volume={20},
+  number={},
+  pages={10792-10805},
+  keywords={Faces;Feature extraction;Adaptation models;Data models;Face recognition;Training;Stability analysis;Software engineering;Silicon;Semantics;Face anti-spoofing;multi-modal fusion;CLIP;source-free adaptation},
+  doi={10.1109/TIFS.2025.3613977}}

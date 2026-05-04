@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3746027.3754730,
+author = {Deng, Zeshuai and Chen, Guohao and Niu, Shuaicheng and Luo, Hui and Zhang, Shuhai and Yang, Yifan and Chen, Renjie and Luo, Wei and Tan, Mingkui},
+title = {Test-Time Model Adaptation for Quantized Neural Networks},
+year = {2025},
+isbn = {9798400720352},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3746027.3754730},
+doi = {10.1145/3746027.3754730},
+abstract = {Quantizing deep models prior to deployment is a widely adopted technique to speed up inference for various real-time applications, such as autonomous driving. However, quantized models often suffer from severe performance degradation in dynamic environments with potential domain shifts and this degradation is significantly more pronounced compared with their full-precision counterparts, as shown by our theoretical and empirical illustrations. To address the domain shift problem, test-time adaptation (TTA) has emerged as an effective solution by enabling models to learn adaptively from test data. Unfortunately, existing TTA methods are often impractical for quantized models as they typically rely on gradient backpropagation-an operation that is unsupported on quantized models due to vanishing gradients, as well as memory and latency constraints. In this paper, we focus on TTA for quantized models to improve their robustness and generalization ability efficiently. We propose a continual zeroth-order adaptation (ZOA) framework that enables efficient model adaptation using only two forward passes, eliminating the computational burden of existing methods. Moreover, we propose a domain knowledge management scheme to store and reuse different domain knowledge with negligible memory consumption, reducing the interference of different domain knowledge and fostering the knowledge accumulation during long-term adaptation. Experimental results on three classical architectures, including quantized transformer-based and CNN-based models, demonstrate the superiority of our methods for quantized model adaptation. On the quantized W6A6 ViT-B model, our ZOA is able to achieve a 5.0\% improvement over the state-of-the-art FOA on ImageNet-C dataset. The source code is available at https://github.com/DengZeshuai/ZOA.},
+booktitle = {Proceedings of the 33rd ACM International Conference on Multimedia},
+pages = {7258–7267},
+numpages = {10},
+keywords = {domain knowledge management, quantized neural network, test-time adaptation, zeroth-order optimization},
+location = {Dublin, Ireland},
+series = {MM '25}
+}

@@ -1,0 +1,11 @@
+@article{DBLP:journals/corr/abs-2505-12005,
+  publtype={informal},
+  author={Dong Liu and Yi Yang and Zixiong Huang and Yuxin Gao and Mingkui Tan},
+  title={CHRIS: Clothed Human Reconstruction with Side View Consistency},
+  year={2025},
+  month={May},
+  cdate={1746057600000},
+  journal={CoRR},
+  volume={abs/2505.12005},
+  url={https://doi.org/10.48550/arXiv.2505.12005}
+}

@@ -1,0 +1,19 @@
+@article{DBLP:journals/tip/ZhouZYHTL25,
+  author       = {Kai Zhou and
+                  Shuhai Zhang and
+                  Zeng You and
+                  Jinwu Hu and
+                  Mingkui Tan and
+                  Fei Liu},
+  title        = {Zero-Shot Skeleton-Based Action Recognition With Prototype-Guided
+                  Feature Alignment},
+  journal      = {{IEEE} Trans. Image Process.},
+  volume       = {34},
+  pages        = {4602--4617},
+  year         = {2025},
+  url          = {https://doi.org/10.1109/TIP.2025.3586487},
+  doi          = {10.1109/TIP.2025.3586487},
+  timestamp    = {Sat, 09 Aug 2025 12:14:56 +0200},
+  biburl       = {https://dblp.org/rec/journals/tip/ZhouZYHTL25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}

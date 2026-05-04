@@ -1,0 +1,10 @@
+@inproceedings{DBLP:conf/ijcai/HuWZZCHXT25,
+  author={Jinwu Hu and Yufeng Wang and Shuhai Zhang and Kai Zhou and Guohao Chen and Yu Hu and Bin Xiao and Mingkui Tan},
+  title={Efficient Dynamic Ensembling for Multiple LLM Experts},
+  year={2025},
+  cdate={1735689600000},
+  pages={8095-8103},
+  url={https://doi.org/10.24963/ijcai.2025/900},
+  booktitle={IJCAI},
+  crossref={conf/ijcai/2025}
+}

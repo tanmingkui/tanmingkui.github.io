@@ -1,0 +1,10 @@
+@ARTICLE{11156142,
+  author={Lin, Kunyang and Wang, Yufeng and Chen, Peihao and Zeng, Runhao and Lei, Yinjie and Zhou, Siyuan and Du, Qing and Tan, Mingkui and Gan, Chuang},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={When to Align: Dynamic Behavior Consistency for Multiagent Systems via Intrinsic Rewards}, 
+  year={2025},
+  volume={36},
+  number={12},
+  pages={20105-20119},
+  keywords={Reinforcement learning;Multi-agent systems;Collaboration;Training;Sports;Navigation;Learning systems;Internet;Decision making;Video games;Behavior consistency;intrinsic reward;multiagent reinforcement learning (MARL);reinforcement learning},
+  doi={10.1109/TNNLS.2025.3598301}}
