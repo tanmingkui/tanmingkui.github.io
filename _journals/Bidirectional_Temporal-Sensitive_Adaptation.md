@@ -14,7 +14,7 @@ bibtex: Bidirectional_Temporal-Sensitive_Adaptation.txt
 uri:
 arxiv:
 project:
-source:
+source: https://github.com/qyao2420/gzs-tal
 poster:
 data:
 ---
