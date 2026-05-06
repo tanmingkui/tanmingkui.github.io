@@ -11,7 +11,7 @@ thumbnail: "Instance_Level_Visual_Active_Tracking.png"
 teaser:
 authors: "Haowei Sun, Kai Zhou, Hao Gao, Shiteng Zhang, Jinwu Hu, Xutao Wen, Qixiang Ye, **Mingkui Tan**"
 bibtex: Instance_Level_Visual_Active_Tracking.txt
-uri:
+uri: Instance_Level_Visual_Active_Tracking.pdf
 arxiv: https://arxiv.org/pdf/2604.21453
 project:
 source: https://github.com/SHWplus/OA-VAT

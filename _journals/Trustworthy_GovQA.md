@@ -11,7 +11,7 @@ thumbnail: "Trustworthy_GovQA.png"
 teaser:
 authors: "王骞玥, 胡晋武, 王宇丰, 胡宇, 高浩然, 邱舟强, 谭明奎"
 bibtex: Trustworthy_GovQA.txt
-uri:
+uri: Trustworthy_GovQA.pdf
 arxiv:
 project:
 source:

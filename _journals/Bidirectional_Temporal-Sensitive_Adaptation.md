@@ -11,7 +11,7 @@ thumbnail: "Bidirectional_Temporal-Sensitive_Adaptation.png"
 teaser:
 authors: "**Mingkui Tan**, Yihao Qian, Yirui Wang, Runhao Zeng, Victor CM Leung, Xiping Hu"
 bibtex: Bidirectional_Temporal-Sensitive_Adaptation.txt
-uri:
+uri: Bidirectional_Temporal-Sensitive_Adaptation.pdf
 arxiv:
 project:
 source: https://github.com/qyao2420/gzs-tal
