@@ -11,7 +11,7 @@ thumbnail: "Dynamic_Prompt_Compression.png"
 teaser:
 authors: "Jinwu Hu, Wei Zhang, Yufeng Wang, Yu Hu, Bin Xiao, **Mingkui Tan**, Qing Du"
 bibtex: Dynamic_Prompt_Compression.txt
-uri:
+uri: Dynamic_Prompt_Compression.pdf
 arxiv:
 project:
 source: https://github.com/Fhujinwu/DPC

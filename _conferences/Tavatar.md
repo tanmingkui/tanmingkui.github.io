@@ -11,7 +11,7 @@ thumbnail: "Tavatar.png"
 teaser:
 authors: "Hailin Luo, Yifan Yang, Jiazhi Shu, Zixiong Huang, Qi Chen, Qing Du, **Mingkui Tan**"
 bibtex: Tavatar.txt
-uri:
+uri: Tavatar.pdf
 arxiv:
 project: https://hailin545.github.io/tavatar/
 source: https://github.com/HaiLin545/tavatar-code

@@ -1,8 +1,8 @@
 ---
 title: "Auto-3D-House Design from Structured User Requirements"
 collection: journals
-permalink: /publication/Auto-3D-House_Design_from_Structured_User_Requirements
-date: 2025-01-01
+permalink: /publication/Auto-3D-House
+date: 2025-01-07
 year: "2025"
 venue: "MIR"
 city:

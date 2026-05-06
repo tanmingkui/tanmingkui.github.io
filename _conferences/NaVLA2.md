@@ -11,7 +11,7 @@ thumbnail: "NaVLA2.png"
 teaser:
 authors: "Jugang Fan, Peihao Chen, Changhao Li, Qing Du, Jian Chen, **Mingkui Tan**"
 bibtex: NaVLA2.txt
-uri:
+uri: NaVLA2.pdf
 arxiv:
 project:
 source: https://github.com/felixfjg/NaVLA

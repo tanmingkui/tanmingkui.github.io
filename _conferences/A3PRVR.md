@@ -11,7 +11,7 @@ thumbnail: "A3PRVR.png"
 teaser:
 authors: "Chuanshen Chen, Kai Zhou, Zhiquan Wen, Zeng You, Yirui Li, Tianhang Xiang, **Mingkui Tan**"
 bibtex: A3PRVR.txt
-uri:
+uri: A3PRVR.pdf
 arxiv:
 project:
 source: https://github.com/chuanshen-chen/A3PRVR

@@ -11,7 +11,7 @@ thumbnail: "Fine-Grained_Alignment.png"
 teaser:
 authors: "Tianhang Xiang, Yirui Li, Lizhao Liu, Hongyan Zhi, Chuanshen Chen, Qing Du, **Mingkui Tan**"
 bibtex: Fine-Grained_Alignment.txt
-uri:
+uri: Fine-Grained_Alignment.pdf
 arxiv:
 project:
 source: https://github.com/TianhangXiang/FAM

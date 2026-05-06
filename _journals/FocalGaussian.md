@@ -11,7 +11,7 @@ thumbnail: "FocalGaussian.png"
 teaser:
 authors: "Yifan Yang, Zeshuai Deng, Dong Liu, Zixiong Huang, Kai Zhou, Hailin Luo, Qing Du, **Mingkui Tan**"
 bibtex: FocalGaussian.txt
-uri:
+uri: FocalGaussian.pdf
 arxiv:
 project:
 source: https://anonymous.4open.science/w/text23d/

@@ -11,7 +11,7 @@ thumbnail: "Open_World_Drone.png"
 teaser:
 authors: "Haowei Sun, Jinwu Hu, Zhirui Zhang, Haoyuan Tian, Xinze Xie, Yufeng Wang, Xiaohua Xie, Yun Lin, Zhuliang Yu, **Mingkui Tan**"
 bibtex: Open_World_Drone.txt
-uri: 
+uri: Open_World_Drone.pdf
 arxiv: https://arxiv.org/pdf/2412.00744
 project:
 source: https://github.com/SHWplus/DAT_Benchmark

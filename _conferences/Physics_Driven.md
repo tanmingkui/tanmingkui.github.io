@@ -11,7 +11,7 @@ thumbnail: "Physics_Driven.png"
 teaser:
 authors: "Shuhai Zhang, Zihao Lian, Jiahao Yang, Daiyuan Li, Guoxuan Pang, Feng Liu, Bo Han, Shutao Li, **Mingkui Tan**"
 bibtex: Physics_Driven.txt
-uri: https://openreview.net/pdf?id=HiBoJLCyEo
+uri: Physics_Driven.pdf
 arxiv:
 project:
 source: https://github.com/ZSHsh98/NSG-VD
