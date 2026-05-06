@@ -1,7 +1,7 @@
 ---
 title: "Efficient Dynamic Ensembling for Multiple LLM Experts"
 collection: conferences
-permalink: /publication/Efficient_Dynamic_Ensembling_for_Multiple_LLM_Experts
+permalink: /publication/Efficient_Dynamic
 date: 2025-01-01
 year: "2025"
 venue: "IJCAI"
